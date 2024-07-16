@@ -39,3 +39,4 @@ urllib3==1.22
 values==2019.4.13
 zope.interface==4.6.0
 pathlib
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
